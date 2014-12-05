@@ -1,2 +1,2 @@
-# Basic programming and algorithm implementation.
-## C language.
+## Basic programming and algorithm implementation.
+ C language.
