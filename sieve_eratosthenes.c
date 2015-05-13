@@ -1,8 +1,8 @@
-# include <stdio.h>
-# include <stdbool.h>
-# define sz 18
-# define len(array) sizeof( array ) / sizeof( array[0] )
-# define itob(num) (num ? "true" : "false")
+#include <stdio.h>
+#include <stdbool.h>
+#define sz 18
+#define len(array) sizeof( array ) / sizeof( array[0] )
+#define itob(num) (num ? "true" : "false")
 
 void status(bool ary[]){
     int i;
